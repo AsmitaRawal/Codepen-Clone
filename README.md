@@ -12,15 +12,13 @@
 
 - [React JS](https://reactjs.org)
 
-### Demo
 
-[https://codepen.suhailkakar.com](https://codepen.suhailkakar.com)
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/suhailkakar/Codepen-Clone.git
+   git clone https://github.com/AsmitaRawal/Codepen-Clone.git
    ```
 2. Install NPM packages
 

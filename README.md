@@ -18,7 +18,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AsmitaRawal/Codepen-Clone.git
+   git clone https://github.com/AsmitaRawal/Codepen-Clone
    ```
 2. Install NPM packages
 
